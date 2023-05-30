@@ -1,4 +1,5 @@
-
+Nombre: Erick Ruiz
+POO
 
 Que es una clase
 Una estrucutra de programacion que nos permite crear y alojar diversos objetos y metodos de igual tematica, 
