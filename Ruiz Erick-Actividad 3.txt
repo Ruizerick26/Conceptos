@@ -1,0 +1,31 @@
+
+
+Que es una clase
+Una estrucutra de programacion que nos permite crear y alojar diversos objetos y metodos de igual tematica, 
+la misma facilita el trabajo con estos objetos, de tal forma, podamos optimizar nuestro codigo
+
+Que es un objeto
+Un objetos, es una entidad definida dentro de la codificación del programa, la misma pude ser modificada 
+o usada.
+
+Que es un metodo
+son las acciones que realiza un objeto, de forma simplificada
+
+Que es un atributo
+son las caracteristicas que posee los diversos objetos que puede tener una clase
+
+setters:
+Una funcion que permite setear o dar un valor a un atributo de una instancia
+
+Getters:
+Función que permite obtener el valor seteado de un atributo, permitiendo el uso del mismo
+
+Puntero:
+Una variable que hace referencia a una variable almacenada en memoria
+
+Constructor:
+Función que define los punteros con los que el proyecto trabajara.
+
+GitHub:
+Plataforma que permite el trabajo colaborativo entre diferentes programadores en un proyecto, permitiendo almacenar copias de seguridad del mismo
+
